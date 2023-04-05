@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\bin\Debug\net6.0\OpOverloading.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\bin\Debug\net6.0\OpOverloading.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\bin\Debug\net6.0\OpOverloading.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\bin\Debug\net6.0\OpOverloading.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\bin\Debug\net6.0\OpOverloading.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\OpOverloading.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\OpOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\OpOverloading.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\OpOverloading.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\OpOverloading.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\OpOverloading.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\refint\OpOverloading.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\OpOverloading.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\OpOverloading.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week7IThink\OpOverloading\OpOverloading\obj\Debug\net6.0\ref\OpOverloading.dll
